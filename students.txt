@@ -1,0 +1,10 @@
+Alex,Robinson,02341,1400.50,3.40
+John,Brown,043261,1200.00,3.21
+Rachel,Van Gorp,77239,600.00,4.00
+James,Smith,89167,1150.55,2.45
+Juan,Garcia,23165,1200.00,3.33
+Lindsey,McDonald,32501,1340.50,2.25
+Tom,Barry,78442,500.00,3.85
+Gwen,Jackson,30029,1150.50,2.00
+Janice,Jones,44560,2200.50,2.45
+Jack,Price,99314,1850.55,3.12
